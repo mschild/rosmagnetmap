@@ -1,0 +1,2 @@
+set(rosserial_msgs_MESSAGE_FILES "/localhome/demo/catkin_ws/src/rosserial/rosserial_msgs/msg/Log.msg;/localhome/demo/catkin_ws/src/rosserial/rosserial_msgs/msg/TopicInfo.msg")
+set(rosserial_msgs_SERVICE_FILES "/localhome/demo/catkin_ws/src/rosserial/rosserial_msgs/srv/RequestParam.srv;/localhome/demo/catkin_ws/src/rosserial/rosserial_msgs/srv/RequestMessageInfo.srv;/localhome/demo/catkin_ws/src/rosserial/rosserial_msgs/srv/RequestServiceInfo.srv")

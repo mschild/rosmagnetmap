@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "data_fusion")
+set(data_fusion_MAINTAINER "demo <demo@todo.todo>")
+set(data_fusion_DEPRECATED "")
+set(data_fusion_VERSION "0.0.0")
+set(data_fusion_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "libpcl-all-dev" "pcl_ros" "pcl_conversions")
+set(data_fusion_RUN_DEPENDS "libpcl-all" "pcl_ros" "pcl_conversions" "roscpp" "rospy" "std_msgs")
+set(data_fusion_BUILDTOOL_DEPENDS "catkin")

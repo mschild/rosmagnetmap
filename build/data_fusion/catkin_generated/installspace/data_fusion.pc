@@ -1,0 +1,8 @@
+prefix=/localhome/demo/catkin_ws/install
+
+Name: data_fusion
+Description: Description of data_fusion
+Version: 0.0.0
+Cflags: 
+Libs: -L/localhome/demo/catkin_ws/install/lib 
+Requires: 

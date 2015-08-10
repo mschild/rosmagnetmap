@@ -1,0 +1,2 @@
+data_fusion:rosserial/rosserial:rosserial/rosserial_arduino:rosserial/rosserial_client:rosserial/rosserial_embeddedlinux:rosserial/rosserial_msgs:rosserial/rosserial_python:rosserial/rosserial_server:rosserial/rosserial_windows:rosserial/rosserial_xbee
+-DCATKIN_DEVEL_PREFIX=/localhome/demo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/localhome/demo/catkin_ws/install
