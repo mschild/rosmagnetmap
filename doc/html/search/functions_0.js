@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['callback_5fdata',['Callback_data',['../localize_8cpp.html#aefc0b225d4da282602e4b2df56165a8c',1,'localize.cpp']]],
+  ['callback_5fposition',['Callback_position',['../localize_8cpp.html#a3be5d8a3f6288b9482ca3831bfae795f',1,'localize.cpp']]]
+];
