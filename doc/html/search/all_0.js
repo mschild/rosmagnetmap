@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['callback_5fdata',['Callback_data',['../localize_8cpp.html#aefc0b225d4da282602e4b2df56165a8c',1,'localize.cpp']]],
-  ['callback_5fposition',['Callback_position',['../localize_8cpp.html#a3be5d8a3f6288b9482ca3831bfae795f',1,'localize.cpp']]]
+  ['_5farray_5fdist_5f',['_ARRAY_DIST_',['../data__fusion__node_8cpp.html#a057906c942fafc9c15e0fe8ab46cc264',1,'data_fusion_node.cpp']]]
 ];

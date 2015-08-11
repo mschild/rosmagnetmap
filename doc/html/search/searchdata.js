@@ -1,9 +1,10 @@
 var indexSectionsWithContent =
 {
-  0: "cglmnt",
-  1: "l",
-  2: "cglm",
-  3: "mnt"
+  0: "_cdglmnoprst",
+  1: "dl",
+  2: "cglmop",
+  3: "mnopt",
+  4: "_mprs"
 };
 
 var indexSectionNames =
@@ -11,7 +12,8 @@ var indexSectionNames =
   0: "all",
   1: "files",
   2: "functions",
-  3: "variables"
+  3: "variables",
+  4: "defines"
 };
 
 var indexSectionLabels =
@@ -19,6 +21,7 @@ var indexSectionLabels =
   0: "All",
   1: "Files",
   2: "Functions",
-  3: "Variables"
+  3: "Variables",
+  4: "Macros"
 };
 
