@@ -75,7 +75,7 @@ PointCloud::Ptr PC 		= new PointCloud(); // will it work like this??
 /// "big" pointcloud that saves all recorded data 
 PointCloud::Ptr PC_map 	= new PointCloud(); // will it work like this?
 
-// publisher for pointcloud 
+/// publisher for pointcloud 
 ros::Publisher pub_pcl; 
 
 /**

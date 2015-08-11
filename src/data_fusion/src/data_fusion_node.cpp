@@ -70,10 +70,10 @@ std::ofstream Magnetmap(MAGN_MAP_FILENAME);
 std::ofstream Magnetmapraw(MAGNRAW_MAP_FILENAME);
  
 /// "small" pointcloud that buffers incomming sensor data 
-PointCloud::Ptr PC 		= new PointCloud(); // will it work like this??
+PointCloud::Ptr PC		= new PointCloud(); // will it work like this??
 
 /// "big" pointcloud that saves all recorded data 
-PointCloud::Ptr PC_map 	= new PointCloud(); // will it work like this?
+PointCloud::Ptr PC_map	= new PointCloud(); // will it work like this?
 
 /// publisher for pointcloud 
 ros::Publisher pub_pcl; 
